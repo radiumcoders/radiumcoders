@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi, I'm Jay Sharma 👋
+# Hi, I'm Jay aka radiumcoders
 
 **Using Arch and Neovim BTW**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40radiumcoders-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/radiumcoders) [![Website](https://www.shieldcn.dev/badge/Website-radiumcoders.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://radiumcoders.com)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-54-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-54-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories) 
+
+## Socials
+![X Follow](https://shieldcn.dev/x/follow/radiumcoders.svg?variant=branded)
 
 </div>
 
@@ -16,4 +19,4 @@
 
 ## 📦 Top Repositories
 
-[![Evil-Buttons ⭐ 11](https://www.shieldcn.dev/github/stars/radiumcoders/Evil-Buttons.svg?variant=secondary&size=sm)](https://github.com/radiumcoders/Evil-Buttons) [![portfolio-radiumcoders ⭐ 2](https://www.shieldcn.dev/github/stars/radiumcoders/portfolio-radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders/portfolio-radiumcoders) [![IronRoot ⭐ 1](https://www.shieldcn.dev/github/stars/radiumcoders/IronRoot.svg?variant=secondary&size=sm)](https://github.com/radiumcoders/IronRoot)
+[![Evil-Buttons](https://www.shieldcn.dev/github/stars/radiumcoders/Evil-Buttons.svg?variant=secondary&size=sm)](https://github.com/radiumcoders/Evil-Buttons) [![portfolio-radiumcoders](https://www.shieldcn.dev/github/stars/radiumcoders/portfolio-radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders/portfolio-radiumcoders) 
