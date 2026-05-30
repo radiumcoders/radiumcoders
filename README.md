@@ -8,9 +8,6 @@
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/radiumcoders.svg?variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-54-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/radiumcoders?tab=repositories) 
 
-## Socials
-![X Follow](https://shieldcn.dev/x/follow/radiumcoders.svg?variant=branded)
-
 </div>
 
 ## 🛠️ Skills & Technologies
