@@ -8,5 +8,5 @@ Got any project DM on [@radiumcoders](https://x.com/radiumcoders)
 
 - EvilButtons [link](https://evilbuttons.com)
 - Github Contribution City [link](https://isometric-github-contributions.vercel.app/)
-- Ride Your Github Contributions [link](rygc.vercel.app)
+- Ride Your Github Contributions [link](https://rygc.vercel.app)
 - StarWalls - Make Github Star Videos [link](https://starwall.radiumcoders.com)
